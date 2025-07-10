@@ -1,0 +1,4 @@
+string inputmessage
+---
+bool success
+string outputmessage

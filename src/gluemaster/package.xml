@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>gluemaster</name>
+  <version>0.0.1</version>
+  <description>TODO: Package description</description>
+  <maintainer email="sunrise@todo.todo">sunrise</maintainer>
+  <license>Apache-2.0</license>
+
+  <depend>rclpy</depend>
+  <depend>time</depend>
+  <depend>std_msgs</depend>
+  <depend>example_interfaces</depend>
+  <depend>pymodbus</depend>
+  <depend>PyQt5</depend>
+  <depend>Hobot</depend>
+  <depend>math</depend>
+  <depend>filterpy</depend>
+  <depend>numpy</depend>
+  <depend>csv</depend>
+  <depend>cv2</depend>
+  <depend>os</depend>
+  <depend>pynput</depend>
+  <depend>threading</depend>
+  <exec_depend>gluemaster_launch</exec_depend>
+
+  <test_depend>ament_copyright</test_depend>
+  <test_depend>ament_flake8</test_depend>
+  <test_depend>ament_pep257</test_depend>
+  <test_depend>python3-pytest</test_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

@@ -1,0 +1,3 @@
+'是否启用','产品名称(type)','产品(粗模板)图片','产品(精模板)图片',‘产品点胶方式’
+1,whiteplane,./gluemaster_files/tpl_rough/whiteplane.jpg,./gluemaster_files/tpl_accurate/whiteplane.jpg,./gluemaster_files/CSVMethods/whiteplane.csv
+1,blackplane,./gluemaster_files/tpl_rough/blackplane.jpg,./gluemaster_files/tpl_accurate/blackplane.jpg,./gluemaster_files/CSVMethods/blackplane.csv
